@@ -1,0 +1,20 @@
+html {
+    background-color: gray;
+}
+
+.row{
+    background-color:gray;
+}
+
+.jumbotron{
+    background-image: url(https://cdn.downtoearth.org.in/library/large/2019-10-18/0.81648400_1571393318_cloud1.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size:2000px;
+    margin-bottom: 0%;
+}
+
+.display-4{
+    font-weight: bold;
+}
+

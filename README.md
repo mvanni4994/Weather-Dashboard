@@ -1,4 +1,4 @@
-Work Day Scheduler [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Weather Dashboard [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 This application tells you the weather of any given city including the temperature, humidity, wind speed and UV Index. 

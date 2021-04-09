@@ -12,7 +12,7 @@ Type in the input field the name of the city, click search and watch the results
 
 ## App Features
 
-![image](/assets/Capture.JPG)
+![image](/Capture.JPG)
 
 ## Technology Used
 JavaScript, JQuery, HTML, CSS, openweathermap API

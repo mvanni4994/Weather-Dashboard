@@ -3,7 +3,7 @@ Work Day Scheduler [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 ## Description
 This application tells you the weather of any given city including the temperature, humidity, wind speed and UV Index. 
 
-Deployed App: 
+Deployed App: https://mvanni4994.github.io/Weather-Dashboard/
 
 Github Repository: https://github.com/mvanni4994
 
